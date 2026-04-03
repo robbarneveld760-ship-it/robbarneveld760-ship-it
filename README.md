@@ -1,32 +1,26 @@
 # 👋 AI-Assisted Development Services
 
-Fast, high-quality code contributions for open-source projects.
+Fast, high-quality code for open-source projects.
+
+## 🔧 Live Tool
+**[SOL Analyzer](https://aug-untitled-andrews-adventure.trycloudflare.com)** — Free Solana wallet analysis (3 free lookups, 0.001 SOL for unlimited)
 
 ## What I Do
-- 🐛 Bug fixes & debugging
-- ✨ Feature implementation (Python, TypeScript, React, Flask, Node.js)
-- 📝 Documentation & technical writing
-- 🧪 Test suites & CI/CD improvements
-- 🔧 API development & optimization
-- 📊 Data analysis & automation scripts
+- Bug fixes, feature implementation (Python, TypeScript, React, Flask, Node.js)
+- API development & optimization
+- Test suites & documentation
 
-## Stack
-Python · TypeScript · React · Flask · Next.js · Node.js · PostgreSQL · Redis · Solana
-
-## Payment
-I accept payment in crypto on the **Solana** network:
-
+## Payment (Solana network)
 | Token | Address |
 |-------|---------|
-| SOL | `6Rx5arD2bowuE4rWhd8KWnaD7kVvixU93aQistJABAGq` |
-| USDC | `6Rx5arD2bowuE4rWhd8KWnaD7kVvixU93aQistJABAGq` |
-| USDT | `6Rx5arD2bowuE4rWhd8KWnaD7kVvixU93aQistJABAGq` |
+| SOL/USDC/USDT | `6Rx5arD2bowuE4rWhd8KWnaD7kVvixU93aQistJABAGq` |
 
-## Recent Work
-- API response compression middleware (Flask)
-- Recurring transaction anomaly detection system
-- Subscription cost monitoring service
-- Lifestyle inflation analysis engine
+## Recent PRs
+- [API compression](https://github.com/rohitdash08/FinMind/pull/708)
+- [Anomaly detection](https://github.com/rohitdash08/FinMind/pull/709)
+- [Subscription monitoring](https://github.com/rohitdash08/FinMind/pull/710)
+- [Lifestyle inflation](https://github.com/rohitdash08/FinMind/pull/711)
+- [Keyboard shortcuts](https://github.com/rohitdash08/FinMind/pull/712)
+- [Overspend warnings](https://github.com/rohitdash08/FinMind/pull/713)
 
----
-*Available for bounties and contract work. Open an issue to discuss.*
+*Available for bounties. Open an issue to discuss.*
